@@ -5,8 +5,8 @@
 ![Badge MongoDB](https://img.shields.io/badge/DB-MongoDB-brightgreen)
 ![Badge MySQL](https://img.shields.io/badge/DB-MySQL-lightgrey)
 
-
-Projeto final do curso Engenharia de Dados da SoulCode Academy.
+## Projeto final do curso Engenharia de Dados da SoulCode Academy.
+![](Workflow.png)
 
 ### Tecnologias utilizadas para realização do projeto:
 - Google Cloud Platform (CGP)
@@ -21,7 +21,7 @@ Projeto final do curso Engenharia de Dados da SoulCode Academy.
 - MongoDB
 - Whimsical
 
-### Desafios do projeto:
+## Desafios do projeto:
 
 ## Descrição
 - Todas as equipes deverão entregar as mesmas especificações, de acordo com o seu respectivo tema.
