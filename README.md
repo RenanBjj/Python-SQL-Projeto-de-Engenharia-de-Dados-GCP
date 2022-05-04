@@ -1,5 +1,10 @@
 # Projeto-de-Conclusao-de-Curso---SoulCode
-
+![Badge em Desenvolvimento](https://img.shields.io/badge/Linguagem-Python-blue)
+![Badge Pyspark](https://img.shields.io/badge/API-Pyspark-orange)
+![Badge Pandas](https://img.shields.io/badge/biblioteca-Pandas-orange)
+![Badge MongoDB](https://img.shields.io/badge/DB-MongoDB-brightgreen)
+![Badge MySQL](https://img.shields.io/badge/DB-MySQL-lightgrey)
+![Badge Scrum](https://img.shields.io/badge/Metodologia%20%C3%81gil-Scrum-yellowgreen)
 Projeto final do curso Engenharia de Dados da SoulCode Academy.
 
 ### Tecnologias utilizadas para realização do projeto:
